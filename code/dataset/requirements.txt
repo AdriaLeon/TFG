@@ -1,0 +1,7 @@
+pandas
+requests
+nltk
+textblob
+empath
+numpy
+selenium
