@@ -44,7 +44,7 @@ bash
 python3 -m venv VENV_NAME
 ```
 
-### 2. Activate the virtual enviroment
+### 3. Activate the virtual enviroment
 bash
 ```
 source VENV_NAME/bin/activate  
