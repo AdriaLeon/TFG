@@ -1,0 +1,326 @@
+WEBVTT
+
+
+00:00:04.080 --> 00:00:06.000
+never touched Python before
+
+00:00:06.001 --> 00:00:07.360
+don't know what a data set is
+
+00:00:07.361 --> 00:00:09.320
+never heard of machine learning
+
+00:00:09.321 --> 00:00:10.620
+but you want to
+
+00:00:10.760 --> 00:00:15.320
+I'm gonna teach you exactly how you can start the process and learn from
+
+00:00:15.321 --> 00:00:16.400
+actually 0 0
+
+00:00:16.401 --> 00:00:20.960
+0 experience from a data scientist who uses these skills every single day
+
+00:00:20.961 --> 00:00:24.840
+and it's gonna go through how you can build up your skills
+
+00:00:24.841 --> 00:00:27.220
+so you can get a job in data science too
+
+00:00:27.240 --> 00:00:28.920
+first up is Python
+
+00:00:28.921 --> 00:00:30.520
+so if you've never heard of Python
+
+00:00:30.521 --> 00:00:35.020
+it is a programming language that is very popular amongst data scientists
+
+00:00:35.080 --> 00:00:36.860
+let's go over some Python basics
+
+00:00:36.920 --> 00:00:40.280
+just to get you familiar with the language
+
+00:00:40.281 --> 00:00:41.560
+so that you can jump into
+
+00:00:41.561 --> 00:00:42.960
+do some research of your own
+
+00:00:42.961 --> 00:00:46.340
+the first thing with Python is to understand your data types
+
+00:00:46.400 --> 00:00:47.480
+so you have ins
+
+00:00:47.481 --> 00:00:48.680
+which are numbers
+
+00:00:48.681 --> 00:00:49.600
+you have floats
+
+00:00:49.601 --> 00:00:50.800
+which are also numbers
+
+00:00:50.801 --> 00:00:52.120
+but they have decimal points
+
+00:00:52.121 --> 00:00:52.960
+you have bullions
+
+00:00:52.961 --> 00:00:55.520
+which is true or false or 1 and 0
+
+00:00:55.521 --> 00:00:57.480
+and have strings text
+
+00:00:57.481 --> 00:00:58.660
+you can have a list
+
+00:00:58.880 --> 00:00:59.760
+you use the brackets
+
+00:00:59.761 --> 00:01:01.400
+the square brackets that look like this
+
+00:01:01.401 --> 00:01:03.840
+and you can have a list of your other data types so your ins
+
+00:01:03.841 --> 00:01:04.440
+your strings
+
+00:01:04.441 --> 00:01:05.200
+your bullions
+
+00:01:05.201 --> 00:01:06.220
+have a list of those
+
+00:01:06.400 --> 00:01:07.480
+then you have dictionaries
+
+00:01:07.481 --> 00:01:09.780
+which are the curly brackets that go like that
+
+00:01:09.960 --> 00:01:11.680
+the key and the value
+
+00:01:11.681 --> 00:01:12.360
+they can be key
+
+00:01:12.361 --> 00:01:14.000
+value pair can be a key
+
+00:01:14.001 --> 00:01:15.480
+and the list next
+
+00:01:15.481 --> 00:01:18.220
+you wanna understand if statements or conditional logic
+
+00:01:18.440 --> 00:01:20.680
+and that is basically a gateway to say
+
+00:01:20.681 --> 00:01:22.480
+do something or don't do something
+
+00:01:22.481 --> 00:01:24.040
+so if your condition is met
+
+00:01:24.041 --> 00:01:24.880
+do this thing
+
+00:01:24.881 --> 00:01:26.080
+and if it doesn't you skip it
+
+00:01:26.081 --> 00:01:26.980
+you don't do that
+
+00:01:27.040 --> 00:01:28.540
+next up are four loops
+
+00:01:28.600 --> 00:01:30.880
+where you can iterate through something
+
+00:01:30.881 --> 00:01:31.840
+it's an iteration
+
+00:01:31.841 --> 00:01:33.720
+so you can iterate through your list
+
+00:01:33.721 --> 00:01:34.480
+your dictionary
+
+00:01:34.481 --> 00:01:35.320
+your dataset
+
+00:01:35.321 --> 00:01:38.320
+next up we can start getting into some Python packages
+
+00:01:38.321 --> 00:01:39.440
+Python like any other language
+
+00:01:39.441 --> 00:01:44.580
+has libraries built on top of it that help you with even more functionality
+
+00:01:44.680 --> 00:01:46.360
+where you don't have to build everything from scratch
+
+00:01:46.361 --> 00:01:47.200
+which we love
+
+00:01:47.201 --> 00:01:50.940
+so first the most common package you're going to use is Pandas
+
+00:01:51.080 --> 00:01:53.540
+Pandas is a Data Frame Management
+
+00:01:54.920 --> 00:01:56.340
+Package I guess
+
+00:01:56.600 --> 00:01:57.840
+and Data Frame
+
+00:01:57.841 --> 00:01:58.440
+if you're not familiar
+
+00:01:58.441 --> 00:01:59.440
+it's essentially a data set
+
+00:01:59.441 --> 00:02:01.300
+it's the pandas data frame
+
+00:02:01.400 --> 00:02:04.540
+they rebranded Data Set as Data Frame
+
+00:02:04.640 --> 00:02:07.640
+which essentially has your columns your rows
+
+00:02:07.641 --> 00:02:09.980
+same thing you'd expect from any sort of table
+
+00:02:10.359 --> 00:02:14.120
+and you can manipulate it via really easily accessible functions
+
+00:02:14.121 --> 00:02:16.080
+once you're ready to start bringing in your data
+
+00:02:16.081 --> 00:02:19.380
+you're going to load your data set from another source
+
+00:02:19.480 --> 00:02:21.520
+potentially a CSP file
+
+00:02:21.521 --> 00:02:23.220
+so you're going to use pandas
+
+00:02:23.320 --> 00:02:25.060
+the function is called from CSV
+
+00:02:25.200 --> 00:02:26.400
+you put in the name of the file
+
+00:02:26.401 --> 00:02:27.980
+the path to it on your computer
+
+00:02:28.000 --> 00:02:30.520
+and it's going to bring it into a nice little data frame for you
+
+00:02:30.521 --> 00:02:31.560
+and this is gonna help you
+
+00:02:31.561 --> 00:02:34.760
+once you're starting to apply some functions to your datasets
+
+00:02:34.761 --> 00:02:37.440
+but we have our dataset loaded into pandas
+
+00:02:37.441 --> 00:02:41.100
+next thing we're going to want to do is perform some descriptive statistics
+
+00:02:41.240 --> 00:02:43.680
+in order to understand what kind of data we have
+
+00:02:43.681 --> 00:02:47.860
+and packages that are gonna be helpful to do that are numpai and saipai
+
+00:02:48.120 --> 00:02:51.800
+and then the last thing you might wanna do with your newfound data skills
+
+00:02:51.801 --> 00:02:53.420
+is visualize
+
+00:02:53.480 --> 00:02:57.540
+so we're gonna use a package called mat plot Lib um
+
+00:02:57.680 --> 00:03:00.860
+which also has a subpackage called Pi plot
+
+00:03:01.240 --> 00:03:02.440
+where you can plot super
+
+00:03:02.441 --> 00:03:05.320
+super easy little cute visualizations
+
+00:03:05.321 --> 00:03:08.140
+so the main ones you'll see are scatter plots
+
+00:03:08.280 --> 00:03:09.720
+line plots bar charts
+
+00:03:09.721 --> 00:03:12.120
+histagrams but that is all for the very
+
+00:03:12.121 --> 00:03:14.380
+very basics of data science
+
+00:03:14.400 --> 00:03:16.660
+tree data science
+
+00:03:16.760 --> 00:03:18.720
+the very basics of data science
+
+00:03:18.721 --> 00:03:19.760
+I hope that was helpful
+
+00:03:19.761 --> 00:03:22.160
+leave any comments in the questions down below
+
+00:03:22.161 --> 00:03:23.280
+I'd be happy to answer them
+
+00:03:23.281 --> 00:03:25.960
+I will also provide a couple resources for you very
+
+00:03:25.961 --> 00:03:26.900
+very beginners
+
+00:03:26.960 --> 00:03:30.600
+but your best that is to just start looking up
+
+00:03:30.601 --> 00:03:31.840
+looking into some of the stuff
+
+00:03:31.841 --> 00:03:32.920
+read some documentation
+
+00:03:32.921 --> 00:03:34.120
+read some articles
+
+00:03:34.121 --> 00:03:36.480
+get yourself a Jupiter notebook and try it out yourself
+
+00:03:36.481 --> 00:03:38.700
+I promise it's not that hard
+
+00:03:38.720 --> 00:03:39.860
+find a tutorial
+
+00:03:40.000 --> 00:03:41.500
+find a YouTube video
+
+00:03:41.640 --> 00:03:42.840
+and just get started
+
+00:03:42.841 --> 00:03:44.863
+follow along for more content like this bye

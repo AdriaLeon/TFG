@@ -1,0 +1,80 @@
+WEBVTT
+
+
+00:00:00.003 --> 00:00:02.029
+en python podemos hacer la suma de 2 números
+
+00:00:02.030 --> 00:00:03.358
+de una forma fácil y rápida
+
+00:00:03.443 --> 00:00:04.918
+lo primero que vamos a hacer es solicitar
+
+00:00:05.123 --> 00:00:06.979
+un dato y asignarlo a una variable
+
+00:00:06.980 --> 00:00:08.339
+en ese caso la variable n uno
+
+00:00:08.340 --> 00:00:09.236
+mediante int
+
+00:00:09.323 --> 00:00:11.516
+vamos a especificar qué es un valor de tipo entero
+
+00:00:11.800 --> 00:00:12.619
+mediante input
+
+00:00:12.620 --> 00:00:15.864
+vamos a especificar que vamos a solicitar un valor
+
+00:00:15.865 --> 00:00:18.384
+dentro de los paréntesis de nuestro input
+
+00:00:18.385 --> 00:00:20.618
+vamos a colocar aquí número uno
+
+00:00:21.280 --> 00:00:22.046
+y lo mismo hacemos
+
+00:00:22.047 --> 00:00:23.969
+para la variable n 2 tipo entero
+
+00:00:23.970 --> 00:00:25.919
+necesitamos un valor número 2
+
+00:00:25.920 --> 00:00:26.959
+posteriormente
+
+00:00:26.960 --> 00:00:29.790
+hacemos la operación en una nueva variable n uno
+
+00:00:29.791 --> 00:00:32.354
+más n 2 de esta forma en la variable x
+
+00:00:32.565 --> 00:00:34.425
+ya tendríamos el resultado de la suma
+
+00:00:34.720 --> 00:00:37.037
+solo faltaría mostrar el resultado de la suma
+
+00:00:37.038 --> 00:00:38.739
+haciendo uso de print
+
+00:00:38.740 --> 00:00:39.649
+y la variable x
+
+00:00:39.650 --> 00:00:41.430
+procedemos a ejecutar nuestro programa
+
+00:00:41.431 --> 00:00:42.665
+nos va a solicitar el número uno
+
+00:00:42.666 --> 00:00:44.750
+el número 2 y finalmente vamos a tener
+
+00:00:44.865 --> 00:00:47.897
+una suma en python de una forma fácil y rápida
+
+00:00:47.898 --> 00:00:49.580
+sígueme para más videos de python

@@ -1,0 +1,113 @@
+WEBVTT
+
+
+00:00:00.280 --> 00:00:02.279
+mode is the number that occurs the most.
+
+00:00:02.280 --> 00:00:02.879
+in this case,
+
+00:00:02.880 --> 00:00:05.759
+our mode is the number 8 as occurs twice,
+
+00:00:05.760 --> 00:00:08.220
+or as all other numbers only occur once.
+
+00:00:09.160 --> 00:00:10.759
+median is our middle value.
+
+00:00:10.760 --> 00:00:13.759
+our first step is to arrange our list in order
+
+00:00:13.760 --> 00:00:15.199
+by smallest to largest
+
+00:00:15.200 --> 00:00:16.599
+or largest to smallest.
+
+00:00:16.600 --> 00:00:18.380
+I wanna go smallest to largest.
+
+00:00:18.760 --> 00:00:20.319
+I now simply cross off the smallest
+
+00:00:20.320 --> 00:00:22.079
+on the left hand side with my largest
+
+00:00:22.080 --> 00:00:22.999
+on the right hand side
+
+00:00:23.000 --> 00:00:25.879
+and I repeat this process until I'm left only one value
+
+00:00:25.880 --> 00:00:26.680
+in the middle.
+
+00:00:26.720 --> 00:00:28.359
+as I had an even number of values.
+
+00:00:28.360 --> 00:00:30.879
+I had one, 2, 3, 4, 5, 6.
+
+00:00:30.880 --> 00:00:32.879
+I'm gonna end up with 2 values in the middle.
+
+00:00:32.880 --> 00:00:34.319
+therefore, to find the meeting,
+
+00:00:34.320 --> 00:00:36.359
+I simply take the average of the 2 numbers
+
+00:00:36.360 --> 00:00:36.959
+in the middle.
+
+00:00:36.960 --> 00:00:37.519
+in this case,
+
+00:00:37.520 --> 00:00:40.020
+I add them together and divide by 2,
+
+00:00:40.120 --> 00:00:41.879
+7 at 8 gives us 15
+
+00:00:41.880 --> 00:00:44.820
+and 15÷2 gives us 7.5
+
+00:00:45.480 --> 00:00:47.079
+to find the mean also commonly
+
+00:00:47.080 --> 00:00:49.799
+referred to as the average I start by adding up all my
+
+00:00:49.800 --> 00:00:52.119
+values and I divide by a number of values
+
+00:00:52.120 --> 00:00:56.940
+here I've got one 2 3 4 5 6 so I divide the answer by 6
+
+00:00:57.280 --> 00:01:00.740
+adding up all my values that comes to a total of 39
+
+00:01:00.920 --> 00:01:02.620
+and I'm going to 5 by 6
+
+00:01:02.680 --> 00:01:07.380
+as I got 6 values or 39÷6 will give a 6.5
+
+00:01:08.240 --> 00:01:11.279
+the range is the highest value subtract the lowest
+
+00:01:11.280 --> 00:01:14.580
+value in this case our highest value is number 12
+
+00:01:14.840 --> 00:01:16.199
+subtract the lowest value,
+
+00:01:16.200 --> 00:01:17.479
+which in this case is one
+
+00:01:17.480 --> 00:01:18.999
+and 12 subtract one
+
+00:01:19.000 --> 00:01:20.100
+gives us 11.

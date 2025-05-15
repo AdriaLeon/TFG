@@ -1,0 +1,68 @@
+WEBVTT
+
+
+00:00:00.120 --> 00:00:01.680
+Operation of a transistor. 
+
+00:00:02.160 --> 00:00:06.912
+In the image above we see an electronic circuit where the lamp is off because 
+
+00:00:06.912 --> 00:00:11.604
+the transistor does not let the current pass to the other side and what will 
+
+00:00:11.604 --> 00:00:15.200
+be necessary for this transistor to maintain this current? 
+
+00:00:15.720 --> 00:00:17.180
+In order to activate it, 
+
+00:00:17.180 --> 00:00:20.687
+it will be necessary to inject a small chain into its base, 
+
+00:00:20.687 --> 00:00:23.200
+this chain cannot be too small or too big. 
+
+00:00:24.040 --> 00:00:24.844
+Now notice, 
+
+00:00:24.844 --> 00:00:28.194
+if we throw a small signal from a magnetic plate, 
+
+00:00:28.194 --> 00:00:31.679
+the little current will flow inside the transistor, 
+
+00:00:31.679 --> 00:00:35.766
+causing the current in the collector to flow to the emitter, 
+
+00:00:35.766 --> 00:00:37.710
+thus making the system work, 
+
+00:00:37.710 --> 00:00:42.200
+and if you want to cross the circuit just remove the base current. 
+
+00:00:42.880 --> 00:00:46.731
+In this other example we will play a minimum voltage and see that 
+
+00:00:46.731 --> 00:00:50.000
+the transistor only released when it reached six volts. 
+
+00:00:50.400 --> 00:00:54.292
+A simpler example we can show is in this hydraulic system, 
+
+00:00:54.292 --> 00:00:58.778
+let's say that the water is making its way and it is interrupted by 
+
+00:00:58.778 --> 00:01:02.011
+this pin and suddenly we throw another base pin, 
+
+00:01:02.011 --> 00:01:04.847
+when this bass pin receives a small force, 
+
+00:01:04.847 --> 00:01:09.268
+it will release the passage of water and when this little force is 
+
+00:01:09.268 --> 00:01:11.841
+interrupted the water will be blocked. 
+
+00:01:12.520 --> 00:01:15.240
+That's how the transistor works. 

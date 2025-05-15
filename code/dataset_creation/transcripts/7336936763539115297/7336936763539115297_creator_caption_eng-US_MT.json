@@ -1,0 +1,131 @@
+WEBVTT
+
+
+00:00:00.000 --> 00:00:02.516
+this is how simple the left-sided hypothesis test works
+
+00:00:02.517 --> 00:00:05.787
+we have a party that has had a 3 percent share of the vote in recent years
+
+00:00:05.906 --> 00:00:08.853
+now it is suspected that this proportion has decreased
+
+00:00:09.106 --> 00:00:10.756
+300 people are surveyed
+
+00:00:10.757 --> 00:00:12.417
+and we are to take a hypothesis test
+
+00:00:12.418 --> 00:00:14.954
+to a significant figure of 5 percent
+
+00:00:15.026 --> 00:00:17.413
+it says that the proportion has decreased
+
+00:00:17.800 --> 00:00:21.770
+our alternative hypothesis here must be smaller than the 3 percent
+
+00:00:21.771 --> 00:00:22.621
+that it was before
+
+00:00:22.739 --> 00:00:24.630
+H 1 is always the guess
+
+00:00:24.631 --> 00:00:26.871
+you only have to read in the task what is suspected
+
+00:00:26.872 --> 00:00:27.741
+this goes here
+
+00:00:28.080 --> 00:00:30.760
+thegegenwahrscheinlichkeit would be up here in the 0 hypothesis
+
+00:00:30.761 --> 00:00:33.061
+so that at least 3 percent fraud
+
+00:00:33.062 --> 00:00:35.201
+this is what the party claims of itself
+
+00:00:35.202 --> 00:00:39.337
+random size X is here then accordingly number of WLAN of party XY
+
+00:00:39.800 --> 00:00:41.680
+with the left hypothesis test it is like this
+
+00:00:41.681 --> 00:00:42.926
+that the probability
+
+00:00:42.927 --> 00:00:46.321
+that our random variable is less equal to the critical number K
+
+00:00:46.400 --> 00:00:48.100
+amount to a maximum of 5 percent
+
+00:00:48.101 --> 00:00:51.001
+because the 5 percent has been mentioned here as a significant level
+
+00:00:51.280 --> 00:00:53.756
+now we go there and first calculate the expected value
+
+00:00:53.757 --> 00:00:55.001
+for this we calculate n times P
+
+00:00:55.002 --> 00:00:56.631
+this is the 300x3 percent
+
+00:00:56.632 --> 00:00:57.690
+we come to 9 people
+
+00:00:57.870 --> 00:00:59.767
+we now let ourselves be done through the
+
+00:00:59.768 --> 00:01:01.610
+output the formulatedWahrscheinlichkeiten
+
+00:01:01.830 --> 00:01:04.603
+we start at our expected value and go
+
+00:01:04.604 --> 00:01:06.461
+because it's on the left side to the left side
+
+00:01:06.462 --> 00:01:07.665
+so down from 9
+
+00:01:08.218 --> 00:01:10.820
+until we have reached a maximum of 5 percent at some point
+
+00:01:10.821 --> 00:01:14.391
+here we see with these values for K we are always above 5 percent
+
+00:01:14.392 --> 00:01:17.101
+also here still AB of the number 3 we lie
+
+00:01:17.102 --> 00:01:20.287
+for the first time below 5 percent so we can say
+
+00:01:20.288 --> 00:01:22.502
+that our critical number K is equal to 3
+
+00:01:22.558 --> 00:01:24.416
+these formulatedWahrscheinlichkeiten you can
+
+00:01:24.417 --> 00:01:27.262
+if you have the followings output via this function
+
+00:01:27.480 --> 00:01:29.606
+the following decision rule can now still be formulated
+
+00:01:29.747 --> 00:01:33.372
+H 0 is if there are at most 3 voters
+
+00:01:33.467 --> 00:01:36.072
+this is exactly this approach we have here in front
+
+00:01:36.247 --> 00:01:39.306
+thus the rejection range of H 0 0-3 is
+
+00:01:39.680 --> 00:01:41.818
+to the same extent H 1 is
+
+00:01:41.941 --> 00:01:47.618
+if at least 4 voters result so the acceptance range of H 0 is 4-300
