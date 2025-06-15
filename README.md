@@ -8,7 +8,7 @@ Special thanks to [AI Forensics](https://aiforensics.org/) for providing the ini
 
 ## 📊 Dataset Creation
 
-The dataset was expanded and enriched through several preprocessing and analysis steps. You can explore the process in [`code/dataset_creation/dataset_creation.ipynb`](code/dataset_creation/dataset_creation.ipynb), or access the final dataset directly: [`TikTokEuropeanElections_Abortion_War.csv`](code/dataset_creation/TikTokEuropeanElections_Abortion_War.csv).
+The dataset was expanded and enriched through several preprocessing and analysis steps. You can explore the process in [`code/dataset_creation/dataset_creation.ipynb`](code/dataset_creation/dataset_creation.ipynb), or access the final dataset directly: [`General_Topic_Party_ByTopic.csv`](code/dataset/General_Topic_Party_ByTopic.csv).
 
 ### Key Processing Steps:
 - Added video captions (transcriptions)
